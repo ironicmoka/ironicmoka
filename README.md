@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/abbec783-d621-4486-8bc3-6a065ee4e542.svg)](https://wakatime.com/@abbec783-d621-4486-8bc3-6a065ee4e542)
+[![wakatime](https://wakatime.com/badge/user/abbec783-d621-4486-8bc3-6a065ee4e542.svg)](https://wakatime.com/@abbec783-d621-4486-8bc3-6a065ee4e542) [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=%40ironicmoka)](https://twitter.com/ironicmoka)
+
+
 
 - 🔭 I’m currently working on WordPress themes customization (mainly via child themes)
 - 🌱 I’m currently learning php
