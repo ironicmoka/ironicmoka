@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/abbec783-d621-4486-8bc3-6a065ee4e542.svg)](https://wakatime.com/@abbec783-d621-4486-8bc3-6a065ee4e542)
+
+- 🔭 I’m currently working on WordPress themes customization (mainly via child themes)
+- 🌱 I’m currently learning php
 <!--
 **ironicmoka/ironicmoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
