@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/abbec783-d621-4486-8bc3-6a065ee4e542.svg)](https://wakatime.com/@abbec783-d621-4486-8bc3-6a065ee4e542) [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=%40ironicmoka)](https://twitter.com/ironicmoka) [![Mastodon](https://badgen.net/badge/icon/mastodon?icon=mastodon&label=%40ironicmoka%40livellosegreto.it)]([https://twitter.com/ironicmoka](https://livellosegreto.it/@ironicmoka)
+[![wakatime](https://wakatime.com/badge/user/abbec783-d621-4486-8bc3-6a065ee4e542.svg)](https://wakatime.com/@abbec783-d621-4486-8bc3-6a065ee4e542) [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=%40ironicmoka)](https://twitter.com/ironicmoka) [![Mastodon](https://badgen.net/badge/icon/mastodon?icon=mastodon&label=%40ironicmoka%40livellosegreto.it)](https://livellosegreto.it/@ironicmoka)
 
 
 
